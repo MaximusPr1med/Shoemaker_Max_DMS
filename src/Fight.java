@@ -9,16 +9,16 @@
 public class Fight {
 
     /**
-     * default constructor for the Fight class.
-     * initializes a new instance of the Fight class.
+     * Default constructor for the Fight class.
+     * Initializes a new instance of the Fight class.
      */
     public Fight() {
         // default constructor
     }
 
     /**
-     * simulates a battle between two characters based on their power levels.
-     * comparing the power levels of the two characters and returns a string indicating the winner or if it's a tie.
+     * Simulates a battle between two characters based on their power levels.
+     * Comparing the power levels of the two characters and returns a string indicating the winner or if it's a tie.
      * @param character1 the first character participating in the battle
      * @param character2 the second character participating in the battle
      * @return String the result of the battle, indicating which character wins or if it's a tie
