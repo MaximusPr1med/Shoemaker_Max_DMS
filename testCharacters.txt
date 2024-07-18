@@ -1,0 +1,2 @@
+Character1, 100, Show1, true
+Character2, 200, Show2, false

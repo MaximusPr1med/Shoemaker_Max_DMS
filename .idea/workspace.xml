@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AnimeCharacterManagementSystem:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4547f1c9-afe9-4631-b2df-22a60db79be6" name="Changes" comment="Database Implemented">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharacterManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharacterManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DatabaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainGUI.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2hjl3Uc720fTYG6bJ8p4GeDyOXG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DatabaseManager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.CharacterManagerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseManagerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseManagerTest.testAddCharacterToDatabase.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseManagerTest2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseManagerTest2.testDeleteCharacterFromDatabaseByName.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseManagerTest2.testDeleteCharacterFromDatabaseByShow.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseManagerTest3.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseManagerTest3.testAddCharacterToDatabase.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseManagerTest3.testUpdateCharacterInDatabase.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FightTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FightTest.testBattle_Character1Wins.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FightTest.testBattle_Character2Wins.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FightTest.testBattle_Tie.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testAddCharactersFromFile.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testClearDatabase.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testConfirmActionNo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testConfirmActionYes.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testDeleteCharacterAndReuseId.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testDeleteCharacterByIndex.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testDeleteCharacterByName.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testFightCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testFindCharacterByIndex.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testFindCharacterByName.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testListCharacterNamesWithNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Uni/IdeaProjects/AnimeCharacterManagementSystem/manifest.txt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Uni/IdeaProjects/AnimeCharacterManagementSystem/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;,
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="DatabaseManagerTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AnimeCharacterManagementSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DatabaseManagerTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseManagerTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AnimeCharacterManagementSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DatabaseManagerTest3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseManagerTest3.testUpdateCharacterInDatabase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AnimeCharacterManagementSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DatabaseManagerTest3" />
+      <option name="METHOD_NAME" value="testUpdateCharacterInDatabase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseManagerTest.testAddCharacterToDatabase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AnimeCharacterManagementSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DatabaseManagerTest" />
+      <option name="METHOD_NAME" value="testAddCharacterToDatabase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AnimeCharacterManagementSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FightTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DatabaseManagerTest.testAddCharacterToDatabase" />
+        <item itemvalue="JUnit.FightTest" />
+        <item itemvalue="JUnit.DatabaseManagerTest3.testUpdateCharacterInDatabase" />
+        <item itemvalue="JUnit.DatabaseManagerTest2" />
+        <item itemvalue="JUnit.DatabaseManagerTest3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4547f1c9-afe9-4631-b2df-22a60db79be6" name="Changes" comment="" />
+      <created>1718115169920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718115169920</updated>
+      <workItem from="1718115170973" duration="5541000" />
+      <workItem from="1718120877893" duration="2211000" />
+      <workItem from="1718123877124" duration="323000" />
+      <workItem from="1718124762979" duration="2327000" />
+      <workItem from="1718167332569" duration="3497000" />
+      <workItem from="1718170897653" duration="549000" />
+      <workItem from="1718237009989" duration="1664000" />
+      <workItem from="1718639535133" duration="3653000" />
+      <workItem from="1718643460898" duration="7216000" />
+      <workItem from="1718656381760" duration="115000" />
+      <workItem from="1718680030826" duration="3592000" />
+      <workItem from="1718724645590" duration="6657000" />
+      <workItem from="1718776037563" duration="1163000" />
+      <workItem from="1718807490497" duration="2437000" />
+      <workItem from="1719758285906" duration="3783000" />
+      <workItem from="1720596394143" duration="2493000" />
+      <workItem from="1720598980701" duration="1506000" />
+      <workItem from="1720925962797" duration="3431000" />
+      <workItem from="1721315712461" duration="1354000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1718170083262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718170083262</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <option name="closed" value="true" />
+      <created>1718170360125</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718170360125</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first">
+      <option name="closed" value="true" />
+      <created>1718171201819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718171201819</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Database Implemented">
+      <option name="closed" value="true" />
+      <created>1718808156538</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718808156538</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Database Implemented">
+      <option name="closed" value="true" />
+      <created>1718808198768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718808198768</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Database Implemented">
+      <option name="closed" value="true" />
+      <created>1719760243115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719760243115</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Database Implemented">
+      <option name="closed" value="true" />
+      <created>1719760262467</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719760262467</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Database Implemented">
+      <option name="closed" value="true" />
+      <created>1720599903259</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720599903259</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Database Implemented">
+      <option name="closed" value="true" />
+      <created>1720599926365</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720599926365</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Database Implemented">
+      <option name="closed" value="true" />
+      <created>1720929242091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720929242091</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <MESSAGE value="Database Implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Database Implemented" />
+  </component>
+</project>

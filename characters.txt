@@ -1,0 +1,20 @@
+Naruto Uzumaki, 90, Naruto, true
+Sasuke Uchiha, 85, Naruto, true
+Goku, 95, Dragon Ball, true
+Vegeta, 92, Dragon Ball, true
+Monkey D. Luffy, 87, One Piece, true
+Roronoa Zoro, 84, One Piece, true
+Ichigo Kurosaki, 91, Bleach, true
+Rukia Kuchiki, 79, Bleach, true
+Eren Yeager, 83, Attack on Titan, true
+Mikasa Ackerman, 82, Attack on Titan, true
+Natsu Dragneel, 88, Fairy Tail, true
+Erza Scarlet, 86, Fairy Tail, true
+Edward Elric, 89, Fullmetal Alchemist, true
+Alphonse Elric, 87, Fullmetal Alchemist, true
+Light Yagami, 75, Death Note, false
+L Lawliet, 74, Death Note, false
+Saitama, 100, One Punch Man, true
+Genos, 95, One Punch Man, true
+Gon Freecss, 84, Hunter x Hunter, true
+Killua Zoldyck, 83, Hunter x Hunter, true

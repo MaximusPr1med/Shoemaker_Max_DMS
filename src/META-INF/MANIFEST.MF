@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: MainGUI
+Class-Path: junit-4.10-extended-1.0.4.jar junit-4.10.jar hamcrest-core-1
+ .1.jar mssql-jdbc-12.6.2.jre8.jar mysql-connector-j-8.4.0.jar
+
