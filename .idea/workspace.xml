@@ -5,7 +5,7 @@
   </component>
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="AnimeCharacterManagementSystem:jar" />
+      <artifact name="AnimeCharacterManagement:jar" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -13,7 +13,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4547f1c9-afe9-4631-b2df-22a60db79be6" name="Changes" comment="Database Implemented">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/AnimeCharacterManagementSystem_jar2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/AnimeCharacterManagementSystem_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnimeCharacterManagementSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AnimeCharacterManagementSystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +87,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Uni/IdeaProjects/AnimeCharacterManagementSystem/out/artifacts/AnimeCharacterManagementSystem_jar",
+    "last_opened_file_path": "C:/Users/Uni/IdeaProjects/AnimeCharacterManagementSystem/out/artifacts/AnimeCharacterManagementSystem_jar/META-INF",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -103,7 +107,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.DatabaseManagerTest.testAddCharacterToDatabase">
     <configuration name="DatabaseManagerTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AnimeCharacterManagementSystem" />
       <option name="PACKAGE_NAME" value="" />
@@ -197,7 +201,8 @@
       <workItem from="1720925962797" duration="3431000" />
       <workItem from="1721315712461" duration="1695000" />
       <workItem from="1721574100775" duration="946000" />
-      <workItem from="1721887802021" duration="2865000" />
+      <workItem from="1721887802021" duration="3432000" />
+      <workItem from="1721892247162" duration="1679000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -287,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721317394723</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Database Implemented">
+      <option name="closed" value="true" />
+      <created>1721891907457</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721891907457</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
